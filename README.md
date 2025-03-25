@@ -7,6 +7,7 @@ This repository contains **hands-on NLP projects** using **Hugging Face Transfor
 ### **📚 Notebooks**  
 📌 **Text Generation** – Fine-tuning and inference with Hugging Face models  
 📌 **AI-Generated Text Detector** – Train a ModernBERT-based model to distinguish AI-generated vs. human-written text  
+📌 **Hugging Face API vs. Pipeline** – Compare three ways to run Hugging Face models: **local pipeline, API requests, and huggingface_hub**  
 📌 **More NLP tasks coming soon**  
 
 ---  
@@ -20,6 +21,9 @@ Run the notebooks directly in **Google Colab**:
 #### **📝 AI-Generated Text Detector Notebook**  
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AICodexLab/Hugging_Face_NLP/blob/main/AI_Generated_Text_Detector_using_ModernBERT.ipynb)  
 
+#### **📝 Hugging Face API vs. Pipeline Notebook**  
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AICodexLab/Hugging_Face_NLP/blob/main/Hugging_Face_API_vs_pipeline.ipynb)  
+
 ---  
 
 ### **📢 Contribute & Feedback**  
@@ -29,4 +33,4 @@ Run the notebooks directly in **Google Colab**:
 ---  
 
 ### **🐟 License**  
-Licensed under **MIT** – free to use, modify, and contribute.
+Licensed under **MIT** – free to use, modify, and contribute.  
